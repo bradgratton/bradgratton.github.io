@@ -45,7 +45,7 @@
         
         collectable.create(type.grace,200,210,17);
         
-        collectable.create(type.db,500,220,72,1,10);
+        collectable.create(type.db,500,220,10);
        
         collectable.create(type.max,500,120,56,2,13);
         
